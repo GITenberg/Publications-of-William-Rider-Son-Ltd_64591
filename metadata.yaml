@@ -1,0 +1,28 @@
+_repo: Publications-of-William-Rider-Son-Ltd_64591
+_version: 0.0.1
+alternative_title: Publications of William Rider and Son, Ltd.
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2021-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William Rider and Son -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs'
+- GITenberg
+title: Publications of William Rider & Son, Ltd.
+url: http://www.gutenberg.org/ebooks/64591
