@@ -1,6 +1,9 @@
 _repo: Publications-of-William-Rider-Son-Ltd_64591
 _version: 0.1.0
 alternative_title: Publications of William Rider and Son, Ltd.
+covers:
+- cover_type: archival
+  image_path: 64591-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64591#Publications-of-William-Rider-Son-Ltd
 gutenberg_issued: '2021-02-18'
 gutenberg_type: Text
 identifiers:
